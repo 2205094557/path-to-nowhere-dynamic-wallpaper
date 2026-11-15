@@ -1,0 +1,2859 @@
+{
+ "schema_version": 1,
+ "skins": [
+  {
+   "character": "达芙蒂尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dafudier_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "离尘",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lichen_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "离尘",
+   "name": "离人归梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lichen_3",
+   "series": "旧日时光系列",
+   "release_date": "2026-06-11"
+  },
+  {
+   "character": "锈",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rust_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "锈",
+   "name": "孤烬长夜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rust_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "玉骨",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yugu_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "玉骨",
+   "name": "问乩瑶台",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yugu_3",
+   "series": "异格神祇系列",
+   "release_date": "2025-09-29"
+  },
+  {
+   "character": "摩尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "moore_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "摩尔",
+   "name": "罗网蔽日",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "moore_3",
+   "series": "究乐极宴系列",
+   "release_date": "2025-02-27"
+  },
+  {
+   "character": "摩尔",
+   "name": "闲隅拾音",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "moore_4",
+   "series": "闲居煦风系列",
+   "release_date": "2026-04-15"
+  },
+  {
+   "character": "瓦尼菈",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "vanilla_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "瓦尼菈",
+   "name": "彻夜流明",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "vanilla_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-10-24"
+  },
+  {
+   "character": "罗睺",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rahu_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "罗睺",
+   "name": "晴空秘行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rahu_3",
+   "series": "闲居煦风系列",
+   "release_date": "2024-02-22"
+  },
+  {
+   "character": "罗睺",
+   "name": "荣光契誓",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rahu_4",
+   "series": "幻造空想系列",
+   "release_date": "2025-07-14"
+  },
+  {
+   "character": "嗷呜",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "owo_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "嗷呜",
+   "name": "舞狮之王",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "owo_3",
+   "series": "邂逅之钥系列",
+   "release_date": "2023-07-27"
+  },
+  {
+   "character": "嗷呜",
+   "name": "喜狮迎门",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "owo_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-02-06"
+  },
+  {
+   "character": "嗷呜",
+   "name": "狮跃浪花",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "owo_5",
+   "series": "沁凉盛夏系列",
+   "release_date": "2026-07-09"
+  },
+  {
+   "character": "迪蒙",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dimeng_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "迪蒙",
+   "name": "霓虹之下",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dimeng_3",
+   "series": "狂野深宵系列",
+   "release_date": "2022-10-13"
+  },
+  {
+   "character": "迪蒙",
+   "name": "雨夜同途",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dimeng_4",
+   "series": "闲居煦风系列",
+   "release_date": "2026-01-13"
+  },
+  {
+   "character": "希格林德",
+   "name": "余晖候令",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "siglinde_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-09-08"
+  },
+  {
+   "character": "多芙",
+   "name": "情笺予你",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dove_3",
+   "series": "绮梦恋歌系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "戈蓝",
+   "name": "天台制裁",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "golem_3",
+   "series": "狂野深宵系列",
+   "release_date": "2024-10-10"
+  },
+  {
+   "character": "妮诺",
+   "name": "上课起立老师好",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "nino_3",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-09-12"
+  },
+  {
+   "character": "尤尼",
+   "name": "妆骨摹影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "uni_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-03-05"
+  },
+  {
+   "character": "李维",
+   "name": "寻常夜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "levy_3",
+   "series": "狂野深宵系列",
+   "release_date": "2024-08-29"
+  },
+  {
+   "character": "卡瓦卡瓦",
+   "name": "欢迎来到兔子洞",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kavakava_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-09-26"
+  },
+  {
+   "character": "切尔西伯爵",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "fupo_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "切尔西伯爵",
+   "name": "月隐奢情",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "fupo_3",
+   "series": "究乐极宴系列",
+   "release_date": "2022-11-17"
+  },
+  {
+   "character": "切尔西伯爵",
+   "name": "遗落心湖",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "fupo_4",
+   "series": "异格神祇系列",
+   "release_date": "2023-12-04"
+  },
+  {
+   "character": "辰砂",
+   "name": "特许护卫",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "beisefenni_3",
+   "series": "特别行动系列",
+   "release_date": "2023-01-12"
+  },
+  {
+   "character": "辰砂",
+   "name": "谦候致意",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "beisefenni_4",
+   "series": "究乐极宴系列",
+   "release_date": "2023-10-26"
+  },
+  {
+   "character": "蔻蔻",
+   "name": "接头特工",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kk_3",
+   "series": "狂野深宵系列",
+   "release_date": "2023-08-08"
+  },
+  {
+   "character": "佩姬",
+   "name": "激沸音浪",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "qiao_3",
+   "series": "狂野深宵系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "德莫莉",
+   "name": "砂海窘途",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "atlant_3",
+   "series": "狂野深宵系列",
+   "release_date": "2024-07-26"
+  },
+  {
+   "character": "墨菲",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mofei_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "墨菲",
+   "name": "逃窜系冒险者",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mofei_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-09-29"
+  },
+  {
+   "character": "啸风",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiaofeng_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "啸风",
+   "name": "烈日晴阳",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiaofeng_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2026-07-09"
+  },
+  {
+   "character": "西涅克斯",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "synex_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "西涅克斯",
+   "name": "街头恶霸",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "synex_3",
+   "series": "狂野深宵系列",
+   "release_date": "2025-12-29"
+  },
+  {
+   "character": "茉莉",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jasmine_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "茉莉",
+   "name": "柔风曳影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jasmine_3",
+   "series": "闲居煦风系列",
+   "release_date": "2025-10-23"
+  },
+  {
+   "character": "空条承太郎",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jotaro_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "派尔琪雅",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pylgia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "派尔琪雅",
+   "name": "黯流缚梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pylgia_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-04-24"
+  },
+  {
+   "character": "派尔琪雅",
+   "name": "锈刻海墟",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pylgia_4",
+   "series": "异格神祇系列",
+   "release_date": "2026-10-19"
+  },
+  {
+   "character": "曜",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yao_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "曜",
+   "name": "舞祭天烛",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yao_3",
+   "series": "旧日时光系列",
+   "release_date": "2024-11-07"
+  },
+  {
+   "character": "曜",
+   "name": "光曜长宵",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yao_4",
+   "series": "梦引霓裳系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "唐",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "don_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "唐",
+   "name": "风华正茂",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "don_3",
+   "series": "旧日时光系列",
+   "release_date": "2025-04-24"
+  },
+  {
+   "character": "黛伦",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "deren_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "黛伦",
+   "name": "世界焦点",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "deren_3",
+   "series": "究乐极宴系列",
+   "release_date": "2024-02-01"
+  },
+  {
+   "character": "黛伦",
+   "name": "蝶之影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "deren_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-12-26"
+  },
+  {
+   "character": "黛伦",
+   "name": "绮夜狂想",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "deren_5",
+   "series": "流光映绘系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "卓娅",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zoya_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "卓娅",
+   "name": "狼袭将至",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zoya_3",
+   "series": "狂野深宵系列",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "卓娅",
+   "name": "至高交涉",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zoya_4",
+   "series": "究乐极宴系列",
+   "release_date": "2023-07-20"
+  },
+  {
+   "character": "卓娅",
+   "name": "荒雪统御",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zoya_5",
+   "series": "心隅密约系列",
+   "release_date": "2025-11-20"
+  },
+  {
+   "character": "诺克斯",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "nuokesi_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "诺克斯",
+   "name": "苍白之祈",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "nuokesi_3",
+   "series": "究乐极宴系列",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "诺克斯",
+   "name": "破晓之暗",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "nuokesi_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-02-01"
+  },
+  {
+   "character": "诺克斯",
+   "name": "画中晨曦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "nuokesi_5",
+   "series": "心隅密约系列",
+   "release_date": "2025-04-24"
+  },
+  {
+   "character": "瑞思",
+   "name": "星界守望",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rise_3",
+   "series": "观影须知系列",
+   "release_date": "2025-04-24"
+  },
+  {
+   "character": "克里斯蒂娜",
+   "name": "快车晨旅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "christina_3",
+   "series": "闲居煦风系列",
+   "release_date": "2025-05-29"
+  },
+  {
+   "character": "卡斯洛",
+   "name": "正装狂徒",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "corso_3",
+   "series": "究乐极宴系列",
+   "release_date": "2023-12-07"
+  },
+  {
+   "character": "莓丝",
+   "name": "无奇典当",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mess_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2023-10-31"
+  },
+  {
+   "character": "温蒂",
+   "name": "链锯惊魂夜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "wendy_3",
+   "series": "观影须知系列",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "温蒂",
+   "name": "锈河挽歌",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "wendy_4",
+   "series": "旧日时光系列",
+   "release_date": "2023-06-19"
+  },
+  {
+   "character": "九十九",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jiushijiu_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "九十九",
+   "name": "混沌制约",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jiushijiu_3",
+   "series": "旧日时光系列",
+   "release_date": "2023-04-27"
+  },
+  {
+   "character": "九十九",
+   "name": "新世界",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jiushijiu_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-12-26"
+  },
+  {
+   "character": "帕加茜",
+   "name": "冬夜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pajiaxi_3",
+   "series": "特别行动系列",
+   "release_date": "2022-12-15"
+  },
+  {
+   "character": "帕加茜",
+   "name": "凛冬锈蚀",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pajiaxi_4",
+   "series": "异格神祇系列",
+   "release_date": "2024-12-19"
+  },
+  {
+   "character": "赫罗",
+   "name": "极限运动计划",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mojila_3",
+   "series": "闲居煦风系列",
+   "release_date": "2023-11-23"
+  },
+  {
+   "character": "赫罗",
+   "name": "天涯此时",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mojila_4",
+   "series": "梦引霓裳系列",
+   "release_date": "2025-10-06"
+  },
+  {
+   "character": "多莉",
+   "name": "日落挥击",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "duoli_3",
+   "series": "狂野深宵系列",
+   "release_date": "2025-04-24"
+  },
+  {
+   "character": "海拉",
+   "name": "红心女王",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hella_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2022-10-27"
+  },
+  {
+   "character": "海拉",
+   "name": "美食之旅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hella_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2023-07-21"
+  },
+  {
+   "character": "海拉",
+   "name": "砂海奇旅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hella_5",
+   "series": "机械纪元系列",
+   "release_date": "2025-03-27"
+  },
+  {
+   "character": "胡椒",
+   "name": "胡椒有群小羔羊",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jiekuilin_3",
+   "series": "闲居煦风系列",
+   "release_date": "2024-11-28"
+  },
+  {
+   "character": "澈",
+   "name": "不速之客",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "che_3",
+   "series": "狂野深宵系列",
+   "release_date": "2024-02-01"
+  },
+  {
+   "character": "法露儿",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "faluer_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "来生瞳",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hitomi_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "来生瞳",
+   "name": "雨沐霓虹",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hitomi_3",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-12-18"
+  },
+  {
+   "character": "赛托",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ceto_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "赛托",
+   "name": "无主之帆",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ceto_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "赛托",
+   "name": "哨戒夜巡",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ceto_4",
+   "series": "沉暮浮生系列",
+   "release_date": "2026-09-29"
+  },
+  {
+   "character": "幽冕·海拉",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hellasp_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "幽冕·海拉",
+   "name": "星梦徙行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hellasp_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-01-13"
+  },
+  {
+   "character": "幽冕·海拉",
+   "name": "星驰破空",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hellasp_4",
+   "series": "心弦协奏系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "格芮芙",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "graves_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "格芮芙",
+   "name": "幽庭寐影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "graves_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "格芮芙",
+   "name": "深廊引蝶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "graves_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "000",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zero_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "000",
+   "name": "异度魔女",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zero_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-07-25"
+  },
+  {
+   "character": "000",
+   "name": "超频狂潮",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zero_4",
+   "series": "心弦协奏系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "000",
+   "name": "模拟心动",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zero_5",
+   "series": "闲居煦风系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "空条徐伦",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jolyne_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "安吉尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "angel_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "安吉尔",
+   "name": "孤剑惊荷",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "angel_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-09-23"
+  },
+  {
+   "character": "安吉尔",
+   "name": "沉响",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "angel_4",
+   "series": "心弦协奏系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "安吉尔",
+   "name": "夜色温柔",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "angel_5",
+   "series": "流光映绘系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "曼缇斯",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mantis_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "曼缇斯",
+   "name": "深林傍影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mantis_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-03-10"
+  },
+  {
+   "character": "曼缇斯",
+   "name": "绿荫笔记",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mantis_4",
+   "series": "旧日时光系列",
+   "release_date": "2026-01-13"
+  },
+  {
+   "character": "阿黛拉",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "adela_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "阿黛拉",
+   "name": "塔楼烛光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "adela_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-04-08"
+  },
+  {
+   "character": "阿黛拉",
+   "name": "林中客",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "adela_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-05-15"
+  },
+  {
+   "character": "阿黛拉",
+   "name": "涟影沉忆",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "adela_5",
+   "series": "异格神祇系列",
+   "release_date": "2026-06-11"
+  },
+  {
+   "character": "娜恰",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "snake_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "娜恰",
+   "name": "酣眠初醒",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "snake_3",
+   "series": "节庆盛典系列",
+   "release_date": "2023-01-19"
+  },
+  {
+   "character": "娜恰",
+   "name": "快乐之源",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "snake_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2023-07-21"
+  },
+  {
+   "character": "娜恰",
+   "name": "秘制魔药",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "snake_5",
+   "series": "幻造空想系列",
+   "release_date": "2024-08-29"
+  },
+  {
+   "character": "白逸",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "linglan_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "白逸",
+   "name": "凛锋夜行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "linglan_3",
+   "series": "狂野深宵系列",
+   "release_date": "2022-12-01"
+  },
+  {
+   "character": "白逸",
+   "name": "浪里白条",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "linglan_4",
+   "series": "沁凉盛夏系列",
+   "release_date": "2023-06-21"
+  },
+  {
+   "character": "白逸",
+   "name": "岁安将军",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "linglan_5",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-02-06"
+  },
+  {
+   "character": "科希",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "crache_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "科希",
+   "name": "永夜狩猎",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "crache_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2022-11-03"
+  },
+  {
+   "character": "科希",
+   "name": "繁星幻市",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "crache_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-07-25"
+  },
+  {
+   "character": "科希",
+   "name": "暗律",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "crache_5",
+   "series": "心弦协奏系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "舒鲁玛",
+   "name": "幻语仙踪",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shrooma_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-05-29"
+  },
+  {
+   "character": "蓟",
+   "name": "花信恬梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "thistle_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-11-28"
+  },
+  {
+   "character": "优利卡",
+   "name": "街角奇遇",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eureka_3",
+   "series": "闲居煦风系列",
+   "release_date": "2024-08-15"
+  },
+  {
+   "character": "加洛法诺",
+   "name": "雨夜雾林",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "garofano_3",
+   "series": "究乐极宴系列",
+   "release_date": "2024-05-20"
+  },
+  {
+   "character": "琳",
+   "name": "偶像独白",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lynn_3",
+   "series": "观影须知系列",
+   "release_date": "2023-09-28"
+  },
+  {
+   "character": "麦昆",
+   "name": "灼心妄景",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mcqueen_3",
+   "series": "异格神祇系列",
+   "release_date": "2023-06-08"
+  },
+  {
+   "character": "麦昆",
+   "name": "梦戏随谈",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "mcqueen_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-03-19"
+  },
+  {
+   "character": "泰特拉",
+   "name": "夜幕边缘",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "tetra_3",
+   "series": "绮梦恋歌系列",
+   "release_date": "2023-08-08"
+  },
+  {
+   "character": "艾恩",
+   "name": "禁忌怪医",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xinxiya_3",
+   "series": "观影须知系列",
+   "release_date": "2023-05-11"
+  },
+  {
+   "character": "堇",
+   "name": "梦见草",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jin_3",
+   "series": "绮梦恋歌系列",
+   "release_date": "2023-02-13"
+  },
+  {
+   "character": "堇",
+   "name": "遥夜花事",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jin_4",
+   "series": "闲居煦风系列",
+   "release_date": "2023-10-12"
+  },
+  {
+   "character": "雷比尼斯",
+   "name": "福贵兴隆",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "renou_3",
+   "series": "节庆盛典系列",
+   "release_date": "2023-01-19"
+  },
+  {
+   "character": "昙",
+   "name": "悠闲晴空",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "zuoyi_3",
+   "series": "闲居煦风系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "阿兰恰",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "alanqia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "承霄",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "chengxiao_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "克莱门汀",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kelaimenting_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "克莱门汀",
+   "name": "绯夜猎影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kelaimenting_3",
+   "series": "沉暮浮生系列",
+   "release_date": "2026-09-29"
+  },
+  {
+   "character": "奥古斯特",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "augustus_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "奥古斯特",
+   "name": "灼宴凯旋",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "augustus_3",
+   "series": "究乐极宴系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "伊帕希娅",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hypatia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "伊帕希娅",
+   "name": "夜隐金蔷",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hypatia_3",
+   "series": "观影须知系列",
+   "release_date": "2025-10-23"
+  },
+  {
+   "character": "伊帕希娅",
+   "name": "晴空随行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hypatia_4",
+   "series": "闲居煦风系列",
+   "release_date": "2026-04-29"
+  },
+  {
+   "character": "柯琳",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "korryn_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "柯琳",
+   "name": "黄金窟",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "korryn_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-02-27"
+  },
+  {
+   "character": "毕安卡",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bianca_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "毕安卡",
+   "name": "苹果小姐的头条",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bianca_3",
+   "series": "究乐极宴系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "毕安卡",
+   "name": "弹跳托卡塔",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bianca_4",
+   "series": "心弦协奏系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "毕安卡",
+   "name": "于天穹坠落处",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bianca_5",
+   "series": "穹映星华系列",
+   "release_date": "2026-07-27"
+  },
+  {
+   "character": "珀尔夫人",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pearl_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "珀尔夫人",
+   "name": "幕下华章",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pearl_3",
+   "series": "究乐极宴系列",
+   "release_date": "2024-07-01"
+  },
+  {
+   "character": "珀尔夫人",
+   "name": "盛世锦瑟",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pearl_4",
+   "series": "梦引霓裳系列",
+   "release_date": "2026-03-17"
+  },
+  {
+   "character": "瑟琳",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "瑟琳",
+   "name": "夜华如昼",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_3",
+   "series": "究乐极宴系列",
+   "release_date": "2023-08-08"
+  },
+  {
+   "character": "瑟琳",
+   "name": "黯夜同行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_4",
+   "series": "异格神祇系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "瑟琳",
+   "name": "兰庭月会",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_5",
+   "series": "邂逅之钥系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "瑟琳",
+   "name": "微明止息 · 阶段一",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_6",
+   "series": "心隅密约系列",
+   "release_date": "2026-11-11"
+  },
+  {
+   "character": "德雷雅",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dreya_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "德雷雅",
+   "name": "寰宇迷梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dreya_3",
+   "series": "究乐极宴系列",
+   "release_date": "2024-01-09"
+  },
+  {
+   "character": "德雷雅",
+   "name": "瀚海星芒",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dreya_4",
+   "series": "沁凉盛夏系列",
+   "release_date": "2025-06-26"
+  },
+  {
+   "character": "橡木匣",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "oak_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "橡木匣",
+   "name": "沉沦之森",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "oak_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2023-09-11"
+  },
+  {
+   "character": "橡木匣",
+   "name": "黑夜的葬仪",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "oak_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-10-31"
+  },
+  {
+   "character": "夏音",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiayin_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "夏音",
+   "name": "狂砂异想",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiayin_3",
+   "series": "机械纪元系列",
+   "release_date": "2022-08-25"
+  },
+  {
+   "character": "夏音",
+   "name": "夏夜闪光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiayin_4",
+   "series": "究乐极宴系列",
+   "release_date": "2023-07-31"
+  },
+  {
+   "character": "夏音",
+   "name": "夏夜狂响",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xiayin_5",
+   "series": "心弦协奏系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "兰利",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lanli_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "兰利",
+   "name": "夜宴来客",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lanli_3",
+   "series": "究乐极宴系列",
+   "release_date": "2022-11-10"
+  },
+  {
+   "character": "兰利",
+   "name": "恶海女爵",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lanli_4",
+   "series": "幻造空想系列",
+   "release_date": "2023-12-14"
+  },
+  {
+   "character": "兰利",
+   "name": "砺锋新晖",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lanli_5",
+   "series": "旧日时光系列",
+   "release_date": "2026-03-17"
+  },
+  {
+   "character": "派因",
+   "name": "刺探者之眼",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "pine_3",
+   "series": "狂野深宵系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "简",
+   "name": "假日便装护卫",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jane_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2025-06-26"
+  },
+  {
+   "character": "烟烟",
+   "name": "轻烟入世",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yanyan_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-11-07"
+  },
+  {
+   "character": "玛蒂尔达",
+   "name": "花野煦梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "matilda_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-08-12"
+  },
+  {
+   "character": "露莉艾卡",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kuangdu_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "露莉艾卡",
+   "name": "海滨甜品角",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kuangdu_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2022-09-29"
+  },
+  {
+   "character": "露莉艾卡",
+   "name": "袖珍狂徒",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kuangdu_4",
+   "series": "旧日时光系列",
+   "release_date": "2023-06-01"
+  },
+  {
+   "character": "普希拉",
+   "name": "午夜瑰雨",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "peggi_3",
+   "series": "绮梦恋歌系列",
+   "release_date": "2023-02-09"
+  },
+  {
+   "character": "普希拉",
+   "name": "乱室佳人",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "peggi_4",
+   "series": "闲居煦风系列",
+   "release_date": "2024-11-04"
+  },
+  {
+   "character": "狼獾",
+   "name": "酷夏激漾",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "langhuan_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2023-06-21"
+  },
+  {
+   "character": "艾米潘",
+   "name": "后街霸主",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "aimiliya_3",
+   "series": "狂野深宵系列",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "艾米潘",
+   "name": "启航！二次元",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "aimiliya_4",
+   "series": "闲居煦风系列",
+   "release_date": "2023-11-23"
+  },
+  {
+   "character": "芙洛拉",
+   "name": "防火安全小课堂",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "fuluola_3",
+   "series": "闲居煦风系列",
+   "release_date": "2025-11-20"
+  },
+  {
+   "character": "丽奎安",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "likuian_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "艾瑟默尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "aisemoer_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "来生泪",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rui_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "来生泪",
+   "name": "微醺夜色",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "rui_3",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-12-18"
+  },
+  {
+   "character": "希露妲",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hilda_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "希露妲",
+   "name": "春日来笺",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hilda_3",
+   "series": "闲居煦风系列",
+   "release_date": "2026-03-23"
+  },
+  {
+   "character": "蜜莉",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "milly_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "蜜莉",
+   "name": "流光画影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "milly_3",
+   "series": "梦引霓裳系列",
+   "release_date": "2025-12-18"
+  },
+  {
+   "character": "蜜莉",
+   "name": "蜜色恋歌",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "milly_4",
+   "series": "心弦协奏系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "萦萦",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yingying_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "萦萦",
+   "name": "小弦初上",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yingying_3",
+   "series": "梦引霓裳系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "萦萦",
+   "name": "清涧照影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yingying_4",
+   "series": "沁凉盛夏系列",
+   "release_date": "2026-07-09"
+  },
+  {
+   "character": "蓝鹫",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "vautour_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "蓝鹫",
+   "name": "倚晴眠",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "vautour_3",
+   "series": "闲居煦风系列",
+   "release_date": "2025-03-27"
+  },
+  {
+   "character": "蓝鹫",
+   "name": "夜色如酝",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "vautour_4",
+   "series": "究乐极宴系列",
+   "release_date": "2025-11-17"
+  },
+  {
+   "character": "赫斯提亚",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hestia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "赫斯提亚",
+   "name": "千灯引愿",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hestia_3",
+   "series": "节庆盛典系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "赫斯提亚",
+   "name": "谒火黄昏",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hestia_4",
+   "series": "异格神祇系列",
+   "release_date": "2025-09-05"
+  },
+  {
+   "character": "雷温",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eleven_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "雷温",
+   "name": "心潮漫夏",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eleven_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2024-06-27"
+  },
+  {
+   "character": "雷温",
+   "name": "心流微澜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eleven_4",
+   "series": "闲居煦风系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "雷温",
+   "name": "寻音之旅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eleven_5",
+   "series": "闲居煦风系列",
+   "release_date": "2026-04-29"
+  },
+  {
+   "character": "渡鸦",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "raven_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "渡鸦",
+   "name": "阿恩海姆之馆",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "raven_3",
+   "series": "幻造空想系列",
+   "release_date": "2023-11-09"
+  },
+  {
+   "character": "渡鸦",
+   "name": "课后惊喜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "raven_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-09-12"
+  },
+  {
+   "character": "渡鸦",
+   "name": "颂赞群星之时",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "raven_5",
+   "series": "穹映星华系列",
+   "release_date": "2026-05-04"
+  },
+  {
+   "character": "爱缇",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "etti_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "爱缇",
+   "name": "诡夜奇旅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "etti_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2023-10-31"
+  },
+  {
+   "character": "爱缇",
+   "name": "龙与圆舞曲",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "etti_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-12-19"
+  },
+  {
+   "character": "观星者",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "anarkia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "观星者",
+   "name": "月夜绮谈",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "anarkia_3",
+   "series": "异格神祇系列",
+   "release_date": "2023-04-13"
+  },
+  {
+   "character": "观星者",
+   "name": "覆日预言",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "anarkia_4",
+   "series": "究乐极宴系列",
+   "release_date": "2025-06-02"
+  },
+  {
+   "character": "伊琳娜",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "heli_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "伊琳娜",
+   "name": "海隅晨光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "heli_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2022-09-29"
+  },
+  {
+   "character": "伊琳娜",
+   "name": "费沙之女",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "heli_4",
+   "series": "旧日时光系列",
+   "release_date": "2023-06-01"
+  },
+  {
+   "character": "伊琳娜",
+   "name": "焰色帷声",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "heli_5",
+   "series": "究乐极宴系列",
+   "release_date": "2025-09-05"
+  },
+  {
+   "character": "萨妮",
+   "name": "心语时光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "thani_3",
+   "series": "闲居煦风系列",
+   "release_date": "2026-11-11"
+  },
+  {
+   "character": "无患子",
+   "name": "悬壶木客",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "wuhuanzi_3",
+   "series": "梦引霓裳系列",
+   "release_date": "2025-11-20"
+  },
+  {
+   "character": "艾可",
+   "name": "绯雪珍藏",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "echo_3",
+   "series": "节庆盛典系列",
+   "release_date": "2026-11-11"
+  },
+  {
+   "character": "拉弥亚",
+   "name": "潮汐秘语",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lamia_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-04-02"
+  },
+  {
+   "character": "拉弥亚",
+   "name": "溺夏邀约",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "lamia_4",
+   "series": "沁凉盛夏系列",
+   "release_date": "2025-06-26"
+  },
+  {
+   "character": "露薇娅·蕾",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "luweiyalei_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "露薇娅·蕾",
+   "name": "闪耀星途",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "luweiyalei_3",
+   "series": "节庆盛典系列",
+   "release_date": "2022-12-29"
+  },
+  {
+   "character": "露薇娅·蕾",
+   "name": "清凉一刻",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "luweiyalei_4",
+   "series": "沁凉盛夏系列",
+   "release_date": "2024-06-27"
+  },
+  {
+   "character": "赫卡蒂",
+   "name": "昨日重现",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hekadi_3",
+   "series": "闲居煦风系列",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "赫卡蒂",
+   "name": "旅人传说",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hekadi_4",
+   "series": "幻造空想系列",
+   "release_date": "2023-03-27"
+  },
+  {
+   "character": "赫卡蒂",
+   "name": "黯羽刹光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hekadi_5",
+   "series": "幻造空想系列",
+   "release_date": "2025-09-29"
+  },
+  {
+   "character": "维多利亚",
+   "name": "早安，麦蒂森",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bai_3",
+   "series": "闲居煦风系列",
+   "release_date": "2023-02-23"
+  },
+  {
+   "character": "维多利亚",
+   "name": "茧中歌",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "bai_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-02-26"
+  },
+  {
+   "character": "伊格尼",
+   "name": "温火新岁",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eagle_3",
+   "series": "节庆盛典系列",
+   "release_date": "2022-12-29"
+  },
+  {
+   "character": "伊格尼",
+   "name": "焦糖星愿",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eagle_4",
+   "series": "闲居煦风系列",
+   "release_date": "2023-12-14"
+  },
+  {
+   "character": "奥利弗",
+   "name": "诗羽余音",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "olivier_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2025-02-27"
+  },
+  {
+   "character": "开尔文",
+   "name": "避暑“圣地”",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dina_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2023-08-31"
+  },
+  {
+   "character": "琼",
+   "name": "后台间憩",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "geji_3",
+   "series": "狂野深宵系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "荒噬·伊琳娜",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "yilinnasp_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "席宁",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xining_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "席宁",
+   "name": "临梦拾章",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "xining_3",
+   "series": "幻造空想系列",
+   "release_date": "2026-11-11"
+  },
+  {
+   "character": "霁川",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jichuan_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "霁川",
+   "name": "芙蕖清昼",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jichuan_3",
+   "series": "梦引霓裳系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "玛格丽塔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "margaret_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "玛格丽塔",
+   "name": "宁和颂诗",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "margaret_3",
+   "series": "异格神祇系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "伊蕾娅",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "irrheia_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "伊蕾娅",
+   "name": "慢滤昼色",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "irrheia_3",
+   "series": "闲居煦风系列",
+   "release_date": "2026-04-15"
+  },
+  {
+   "character": "源津",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shin_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "源津",
+   "name": "星寂之拥",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shin_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-11-20"
+  },
+  {
+   "character": "芭·菲",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "parfait_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "芭·菲",
+   "name": "瑰艺沙龙",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "parfait_3",
+   "series": "究乐极宴系列",
+   "release_date": "2025-09-29"
+  },
+  {
+   "character": "芭·菲",
+   "name": "新世界黎明",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "parfait_4",
+   "series": "穹映星华系列",
+   "release_date": "2026-06-15"
+  },
+  {
+   "character": "耶莱娜",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jelena_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "耶莱娜",
+   "name": "灼夜摇篮",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jelena_3",
+   "series": "异格神祇系列",
+   "release_date": "2025-05-29"
+  },
+  {
+   "character": "耶莱娜",
+   "name": "一帘烟雨",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jelena_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "耶莱娜",
+   "name": "密荫之下",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "jelena_5",
+   "series": "穹映星华系列",
+   "release_date": "2026-09-07"
+  },
+  {
+   "character": "L.L.",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ll_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "L.L.",
+   "name": "万籁罄音",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ll_3",
+   "series": "幻造空想系列",
+   "release_date": "2025-01-27"
+  },
+  {
+   "character": "L.L.",
+   "name": "深渊魅影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ll_4",
+   "series": "流光映绘系列",
+   "release_date": "2026-03-17"
+  },
+  {
+   "character": "杜若",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "duruo_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "杜若",
+   "name": "静夜常羲",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "duruo_3",
+   "series": "异格神祇系列",
+   "release_date": "2024-09-26"
+  },
+  {
+   "character": "杜若",
+   "name": "清风入怀",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "duruo_4",
+   "series": "梦引霓裳系列",
+   "release_date": "2025-08-25"
+  },
+  {
+   "character": "伊芙",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eve_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "伊芙",
+   "name": "星辉之夜",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eve_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-12-16"
+  },
+  {
+   "character": "伊芙",
+   "name": "苍寂谧林",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eve_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-05-15"
+  },
+  {
+   "character": "伊芙",
+   "name": "虚眷工坊",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "eve_5",
+   "series": "幻造空想系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "可可莉克",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "coquelicot_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "可可莉克",
+   "name": "盛放",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "coquelicot_3",
+   "series": "闲居煦风系列",
+   "release_date": "2024-07-11"
+  },
+  {
+   "character": "可可莉克",
+   "name": "绯色迷林",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "coquelicot_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-05-15"
+  },
+  {
+   "character": "可可莉克",
+   "name": "绯夜初醒",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "coquelicot_5",
+   "series": "心隅密约系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "卡门奈特",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cab_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "卡门奈特",
+   "name": "酩酊诱梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cab_3",
+   "series": "异格神祇系列",
+   "release_date": "2024-01-15"
+  },
+  {
+   "character": "卡门奈特",
+   "name": "共醉",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cab_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-09-09"
+  },
+  {
+   "character": "卡门奈特",
+   "name": "殷红序宴",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cab_5",
+   "series": "究乐极宴系列",
+   "release_date": "2025-12-18"
+  },
+  {
+   "character": "恩菲尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "enfer_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "恩菲尔",
+   "name": "錾刻者之巢",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "enfer_3",
+   "series": "幻造空想系列",
+   "release_date": "2023-05-08"
+  },
+  {
+   "character": "恩菲尔",
+   "name": "璞玉灼灼",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "enfer_4",
+   "series": "邂逅之钥系列",
+   "release_date": "2024-03-19"
+  },
+  {
+   "character": "恩菲尔",
+   "name": "诡梦回廊",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "enfer_5",
+   "series": "流光映绘系列",
+   "release_date": "2026-09-08"
+  },
+  {
+   "character": "哈梅尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hameier_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "哈梅尔",
+   "name": "欢愉调",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hameier_3",
+   "series": "节庆盛典系列",
+   "release_date": "2022-12-29"
+  },
+  {
+   "character": "哈梅尔",
+   "name": "奥吉莉亚",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hameier_4",
+   "series": "奇诡话剧系列",
+   "release_date": "2023-09-28"
+  },
+  {
+   "character": "哈梅尔",
+   "name": "依偎涟漪",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hameier_5",
+   "series": "心隅密约系列",
+   "release_date": "2024-11-28"
+  },
+  {
+   "character": "哈梅尔",
+   "name": "星穹幻响",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "hameier_6",
+   "series": "心弦协奏系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "来生爱",
+   "name": "爱意音讯",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "ai_3",
+   "series": "邂逅之钥系列",
+   "release_date": "2025-12-18"
+  },
+  {
+   "character": "卡兹安",
+   "name": "醺然海风",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cassian_3",
+   "series": "沁凉盛夏系列",
+   "release_date": "2026-07-09"
+  },
+  {
+   "character": "肖恩",
+   "name": "伪恋推送",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shawn_3",
+   "series": "闲居煦风系列",
+   "release_date": "2025-03-27"
+  },
+  {
+   "character": "卡西娅",
+   "name": "馨园绮罗",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "cassia_3",
+   "series": "幻造空想系列",
+   "release_date": "2024-05-30"
+  },
+  {
+   "character": "莱塔",
+   "name": "古堡幽影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "letta_3",
+   "series": "奇诡话剧系列",
+   "release_date": "2024-05-16"
+  },
+  {
+   "character": "嘟嘟",
+   "name": "知音难觅",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dudu_3",
+   "series": "狂野深宵系列",
+   "release_date": "2023-08-24"
+  },
+  {
+   "character": "嘟嘟",
+   "name": "惑音魔女",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "dudu_4",
+   "series": "幻造空想系列",
+   "release_date": "2024-10-31"
+  },
+  {
+   "character": "卡米利安",
+   "name": "梦寐私谕",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "chameleon_3",
+   "series": "异格神祇系列",
+   "release_date": "2022-09-08"
+  },
+  {
+   "character": "卡米利安",
+   "name": "晓梦浮生",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "chameleon_4",
+   "series": "幻造空想系列",
+   "release_date": "2023-10-23"
+  },
+  {
+   "character": "安",
+   "name": "氤氲夜话",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "tuoqier_3",
+   "series": "闲居煦风系列",
+   "release_date": "2023-01-19"
+  },
+  {
+   "character": "安",
+   "name": "夜雨微光",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "tuoqier_4",
+   "series": "究乐极宴系列",
+   "release_date": "2024-06-13"
+  },
+  {
+   "character": "福克斯先生",
+   "name": "晨昏游戏",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "kaier_3",
+   "series": "异格神祇系列",
+   "release_date": "2023-03-30"
+  },
+  {
+   "character": "艾瑞尔",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "airuier_2",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "艾瑞尔",
+   "name": "静谧夜曲",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "airuier_3",
+   "series": "究乐极宴系列",
+   "release_date": "2022-09-26"
+  },
+  {
+   "character": "艾瑞尔",
+   "name": "笼中鸟",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "airuier_4",
+   "series": "旧日时光系列",
+   "release_date": "2023-09-07"
+  },
+  {
+   "character": "玛奇朵",
+   "name": "意乱情迷",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "aida_3",
+   "series": "绮梦恋歌系列",
+   "release_date": "2024-02-14"
+  },
+  {
+   "character": "丽莎",
+   "name": "庭间蝶影",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "monalisa_3",
+   "series": "闲居煦风系列",
+   "release_date": "2023-04-20"
+  },
+  {
+   "character": "局长",
+   "name": "管理局制服",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_3",
+   "series": "未知",
+   "release_date": "2022-08-11"
+  },
+  {
+   "character": "局长",
+   "name": "潜行者",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_4",
+   "series": "命运系列",
+   "release_date": "2022-12-15"
+  },
+  {
+   "character": "局长",
+   "name": "恰似流年",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_5",
+   "series": "风华系列",
+   "release_date": "2023-01-19"
+  },
+  {
+   "character": "局长",
+   "name": "冒险家",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_6",
+   "series": "典范系列",
+   "release_date": "2023-02-23"
+  },
+  {
+   "character": "局长",
+   "name": "静谧浮华",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_7",
+   "series": "典范系列",
+   "release_date": "2023-08-08"
+  },
+  {
+   "character": "局长",
+   "name": "是夜无眠",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_8",
+   "series": "典范系列",
+   "release_date": "2023-12-14"
+  },
+  {
+   "character": "局长",
+   "name": "问日辉",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_9",
+   "series": "风华系列",
+   "release_date": "2024-02-01"
+  },
+  {
+   "character": "局长",
+   "name": "假日闲情",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_10",
+   "series": "命运系列",
+   "release_date": "2024-07-25"
+  },
+  {
+   "character": "局长",
+   "name": "长阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_11",
+   "series": "命运系列",
+   "release_date": "2024-11-28"
+  },
+  {
+   "character": "局长",
+   "name": "花时君至",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_12",
+   "series": "风华系列",
+   "release_date": "2025-01-23"
+  },
+  {
+   "character": "局长",
+   "name": "执锋裁约",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_13",
+   "series": "典范系列",
+   "release_date": "2025-08-07"
+  },
+  {
+   "character": "局长",
+   "name": "鎏尘祈谕",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_14",
+   "series": "典范系列",
+   "release_date": "2025-11-20"
+  },
+  {
+   "character": "局长",
+   "name": "霜天暮雪",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_15",
+   "series": "风华系列",
+   "release_date": "2026-02-10"
+  },
+  {
+   "character": "局长",
+   "name": "同素异形",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_16",
+   "series": "典范系列",
+   "release_date": "2026-05-14"
+  },
+  {
+   "character": "局长",
+   "name": "弦下旧梦",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_17",
+   "series": "典范系列",
+   "release_date": "2026-08-06"
+  },
+  {
+   "character": "局长",
+   "name": "铳梦夜行",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "player_18",
+   "series": "风华系列",
+   "release_date": "2026-09-29"
+  },
+  {
+   "character": "希格林德",
+   "name": "zhanzi",
+   "bundle": "",
+   "painting": "lihui_siglinde_zhanzi",
+   "type": "static",
+   "series": "",
+   "source": "local_extract"
+  },
+  {
+   "character": "test",
+   "name": "test",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "test",
+   "series": "",
+   "source": "verification"
+  },
+  {
+   "character": "莎缇拉",
+   "name": "升阶",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shatila_2",
+   "series": "升阶三阶",
+   "release_date": "2026-11-11"
+  },
+  {
+   "character": "瑟琳",
+   "name": "微明止息 · 阶段二",
+   "type": "live2d",
+   "bundle": "",
+   "painting": "shalom_601",
+   "series": "升阶三阶"
+  },
+  {
+   "character": "诺克斯",
+   "name": "诺克斯 装束 501",
+   "bundle": "",
+   "painting": "nuokesi_501",
+   "type": "live2d",
+   "series": "",
+   "source": "local_extract"
+  },
+  {
+   "character": "卓娅",
+   "name": "卓娅 装束 501",
+   "bundle": "",
+   "painting": "zoya_501",
+   "type": "live2d",
+   "series": "",
+   "source": "local_extract"
+  }
+ ]
+}

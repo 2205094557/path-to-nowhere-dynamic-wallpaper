@@ -1,0 +1,41 @@
+.venv/
+__pycache__/
+*.pyc
+resources/*
+# 图鉴/语音/资源清单等元数据只有 ~3.8MB，随仓库分发，克隆后无需联网即可浏览图鉴
+!resources/metadata/
+# 但本地运行状态、缓存与扫描产物不入库（体积大且与机器相关）
+resources/metadata/bwiki_responses/
+resources/metadata/motion_originals/
+resources/metadata/library.db
+resources/metadata/library_state.json
+resources/metadata/local_skins.json
+resources/metadata/live2d_inventory.json
+resources/metadata/*.bak
+resources/metadata/*.pretest.bak
+!resources/icon.ico
+logs/
+dist/
+build/
+*.spec
+!ptn.spec
+node_modules/
+frontend/dist/
+references/
+.vite/
+.cursor/
+*.log
+# 语音解码器（vgmstream 二进制，10MB+）：与 references/ 同策略，
+# 本地机器工具不入库，由 build_pack.py 自检保证打包版存在
+tools/vgmstream/
+# AI 超分引擎套件（NCNN Vulkan 二进制与权重，~20MB）：本地机器工具不入库
+tools/*-ncnn-vulkan/
+_debug_frames/
+_tmp_*.txt
+# 第三方 Live2D 提取工具发行包（131MB 二进制）：请自行从发布页获取
+Live2DTools/
+# 模拟器导出的原始清单/解密样本（研究中间产物，非代码）
+mumu_test/
+# 本地编辑器/会话状态
+.zcode/
+.idea/

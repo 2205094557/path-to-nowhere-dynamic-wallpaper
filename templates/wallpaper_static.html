@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; overflow: hidden; background: #050510; }
+  #bg-layer { position: fixed; inset: 0; z-index: 0; {{BG_CSS}} }
+  #stage { position: fixed; inset: 0; z-index: 1; display: grid; place-items: center; overflow: hidden; }
+  #img {
+    max-width: 92%;
+    max-height: 92%;
+    object-fit: contain;
+    filter: drop-shadow(0 8px 30px rgba(0, 0, 0, 0.35));
+    user-select: none;
+  }
+</style>
+</head>
+<body>
+<div id="bg-layer"></div>
+<div id="stage"><img id="img" src="{{IMAGE}}" draggable="false" /></div>
+<script src="wallpaper-layout.js"></script>
+<script>
+// 与 StaticPreview.vue 的布局一致：图片 contain + translate(画布宽/高百分比) + scale(百分比)
+var SCALE = {{SCALE}};
+var OFFSET_X = {{OFFSET_X}};
+var OFFSET_Y = {{OFFSET_Y}};
+var ALIGNMENT = "{{ALIGNMENT}}";
+var LAYOUT_STORAGE_KEY = {{LAYOUT_STORAGE_KEY}};
+var stage = document.getElementById('stage');
+var layoutControl = WallpaperLayout.layoutController(stage, {
+  scale: SCALE,
+  offsetX: OFFSET_X,
+  offsetY: OFFSET_Y,
+  alignment: ALIGNMENT,
+  storageKey: LAYOUT_STORAGE_KEY,
+  onChange: function (state) {
+    SCALE = state.scale;
+    OFFSET_X = state.offsetX;
+    OFFSET_Y = state.offsetY;
+    ALIGNMENT = state.alignment;
+    applyLayout();
+  }
+});
+SCALE = layoutControl.state.scale;
+OFFSET_X = layoutControl.state.offsetX;
+OFFSET_Y = layoutControl.state.offsetY;
+ALIGNMENT = layoutControl.state.alignment;
+function applyLayout() {
+  var img = document.getElementById('img');
+  img.style.transform = 'translate(' + (WallpaperLayout.clampOffset(OFFSET_X) / 100 * window.innerWidth) + 'px,' +
+    (WallpaperLayout.clampOffset(OFFSET_Y) / 100 * window.innerHeight) + 'px) scale(' + WallpaperLayout.clampScale(SCALE) / 100 + ')';
+}
+window.addEventListener('resize', applyLayout);
+window.wallpaperPropertyListener = {
+  applyUserProperties: function (properties) {
+    try { layoutControl.applyUserProperties(properties); } catch (e) {}
+  }
+};
+applyLayout();
+</script>
+</body>
+</html>

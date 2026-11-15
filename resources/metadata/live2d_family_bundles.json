@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "models": {
+  "Hameier_5": {
+   "chunk": "res_e0908b2da896c38929de24d64f65f3e9.bin",
+   "bundles": [
+    {
+     "name": "assets/art_live2d_characters_hameier_5_material.bundle",
+     "chunk": "res_cffc11b2149b4a7c2b94e25123577ce9.bin",
+     "offset": 33033499,
+     "length": 3551
+    },
+    {
+     "name": "assets/art_live2d_characters_hameier_5_effect.bundle",
+     "chunk": "res_cffc11b2149b4a7c2b94e25123577ce9.bin",
+     "offset": 4374700,
+     "length": 30542
+    },
+    {
+     "name": "assets/art_live2d_characters_hameier_5_hameier_5.4096.bundle",
+     "chunk": "res_cffc11b2149b4a7c2b94e25123577ce9.bin",
+     "offset": 12626068,
+     "length": 15506958
+    }
+   ]
+  },
+  "Male_4": {
+   "chunk": "res_cffc11b2149b4a7c2b94e25123577ce9.bin",
+   "bundles": [
+    {
+     "name": "assets/art_live2d_characters_male_4_male_4.2048.bundle",
+     "chunk": "res_0f2e5100b08dd33e7ed62dafdcc7d1df.bin",
+     "offset": 33806823,
+     "length": 3551916
+    }
+   ]
+  },
+  "Male_5": {
+   "chunk": "res_0f2e5100b08dd33e7ed62dafdcc7d1df.bin",
+   "bundles": [
+    {
+     "name": "assets/art_live2d_characters_male_5_male_5.2048.bundle",
+     "chunk": "res_3d1edb313f8f2e8b1c6c5651c949c881.bin",
+     "offset": 47827994,
+     "length": 4015993
+    }
+   ]
+  }
+ }
+}

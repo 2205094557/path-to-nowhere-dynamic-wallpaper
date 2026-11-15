@@ -1,0 +1,24 @@
+{
+  "errors": [
+    {
+      "error": "RuntimeError: MediaWiki error: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", 'docref': 'See https://wiki.biligame.com/wqmt/api.php for API usage. Subscribe to the mediawiki",
+      "title": "语音:卓娅 升阶"
+    },
+    {
+      "error": "RuntimeError: MediaWiki error: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", 'docref': 'See https://wiki.biligame.com/wqmt/api.php for API usage. Subscribe to the mediawiki",
+      "title": "语音:诺克斯 升阶"
+    },
+    {
+      "error": "RuntimeError: MediaWiki error: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", 'docref': 'See https://wiki.biligame.com/wqmt/api.php for API usage. Subscribe to the mediawiki",
+      "title": "语音:瑟琳 升阶"
+    },
+    {
+      "error": "RuntimeError: MediaWiki error: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", 'docref': 'See https://wiki.biligame.com/wqmt/api.php for API usage. Subscribe to the mediawiki",
+      "title": "语音:可可莉克 升阶"
+    },
+    {
+      "error": "RuntimeError: MediaWiki error: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", 'docref': 'See https://wiki.biligame.com/wqmt/api.php for API usage. Subscribe to the mediawiki",
+      "title": "语音:哈梅尔 升阶"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 1,
+        "ns": 6,
+        "title": "文件:海拉.png",
+        "imageinfo": [
+          {
+            "url": "https://patchwiki.biligame.com/images/wqmt/a/a1/%E6%B5%B7%E6%8B%89.png",
+            "descriptionurl": "https://wiki.biligame.com/wqmt/%E6%96%87%E4%BB%B6:%E6%B5%B7%E6%8B%89.png",
+            "size": 123456,
+            "width": 2048,
+            "height": 2048,
+            "mime": "image/png",
+            "sha1": "0123456789abcdef"
+          }
+        ]
+      }
+    ]
+  }
+}
